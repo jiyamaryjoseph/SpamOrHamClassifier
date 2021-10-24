@@ -8,4 +8,7 @@ This is mostly used for document classification problem, i.e whether a document 
 This is similar to the multinomial naive bayes but the predictors are boolean variables. The parameters that we use to predict the class variable take up only values yes or no, for example if a word occurs in the text or not.
 #### Gaussian Naive Bayes:
 When the predictors take up a continuous value and are not discrete, we assume that these values are sampled from a gaussian distribution.
+
+
+      Here I am using Multinomial Naive Bayes on spam ham detection.
  
